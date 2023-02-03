@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+.fondo
+{
+    background-color: #ff0000;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    height:auto;
+    width: 100%;
+    padding-right: 0%;
+}
+
+.titulo
+{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+.welcome
+{
+    background-color:red !important;
+    font-family: 'Press Start 2P', cursive;
+    color: black !important;
+}
+
+.column
+{
+    padding: 0rem !important;
+}
+
+.credito
+{
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+}
+
+.mostrar
+{
+    color: #ffffff;
+    background-color: #0d62ff;
+    height: 27.5rem;
+    padding-left:1.5rem !important;
+    padding-right:1rem !important;
+    padding-top:1rem !important;
+}
+
+.border
+{
+    border-color: white;
+}
+
+.pixel
+{  
+    font-family: 'Press Start 2P', cursive;
+    padding-left: 1rem !important;
+    text-align: center;
+    color:white !important;background-color: #0d62ff !important;
+}
+
+.pad
+{
+    padding:1rem  !important;
+    padding-left: 1.5rem !important;
+    padding-top: 2rem !important;
+}
+
+.foto
+{
+text-align: center;
+}
+
+.elpad
+{
+    padding-top: 0.75rem;
+    text-align: center;
+}
+
+.color
+{
+    color: black;
+} 
+

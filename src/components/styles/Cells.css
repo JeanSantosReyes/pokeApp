@@ -1,0 +1,15 @@
+
+.poke-cell { 
+    width: 120px; 
+    height: 140px; 
+    margin: 10px; 
+    background-color: #ffffff; 
+    background-repeat: no-repeat; 
+    border: none; 
+  }
+
+  .poke-cell:hover
+  {
+    box-shadow:none;
+    transform: translate(0px,5px);
+  }
