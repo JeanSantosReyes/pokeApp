@@ -4,7 +4,7 @@ import '../../node_modules/nes.css/css/nes.css';
 
 export const PokeCell = ({ pokeClass, handleOnClick }) => {
     const { id, backgroundPosition } = pokeClass;
-    const style = { backgroundImage: `url(../../sprites.png)`, backgroundPosition };
+    const style = { backgroundImage: `url(./sprites.png)`, backgroundPosition };
     return (
         <>
             <button
